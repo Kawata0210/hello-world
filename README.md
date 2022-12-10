@@ -1,8 +1,11 @@
-# Hello world!
-Welcome to the Hello world repository!
+# Hello world Recreation.
 
-This hello world repository makes Hello world Files!
-like vbs,py etc
+This is my hello world recreation.
 
-Other hello worlds will be maked!
+This is kind of an old hello world project i made..
+
+Soo i would see how far i become! :)
+
+```this person never improved```
+
 
